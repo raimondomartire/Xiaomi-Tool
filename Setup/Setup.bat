@@ -39,7 +39,7 @@ echo    ##                          XBBMBBB    rBBMMBB                          
 echo    ##                           BBBBBi     MBBBBj                           ## 
 echo    ##                             ii         ii                             ## 
 echo    ##                                                                       ## 
-echo    ##                           Lg L Toolkit Setup                          ##
+echo    ##                           Xiaomi Tool Setup                           ##
 echo    ##                                                                       ##
 echo    ##                                                                       ##
 echo    ###########################################################################
