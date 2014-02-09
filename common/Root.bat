@@ -50,7 +50,7 @@ echo This will take about 1 minute (max 2)
 @adb shell rm /system/app/GMS_Maps.apk
 @adb shell rm /system/app/YouTube.apk
 @adb shell mkdir /tmp/supersu
-@adb push C:\LgTool\common\Root\supersu /emmc/
+@adb push C:\XiaomiTool\common\Root\supersu /emmc/
 @adb shell mv /emmc/supersu /tmp/
 @adb shell mkdir /system/bin/.ext
 @adb shell cp /tmp/supersu/arm/su /system/xbin/daemonsu
