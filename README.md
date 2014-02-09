@@ -5,6 +5,9 @@ Xiaomi-Tool
 This is an open source Pc Suite For your Xiaomi Mi2(s) and Mi3
 
 
+http://www.youtube.com/watch?v=gDg411ux9e4
+
+
 --------------------------------------------------
 Features:
 
